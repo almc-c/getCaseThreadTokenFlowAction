@@ -9,9 +9,9 @@ Simply add your own custom text field (255) to the case object, assign to layout
 
 Salesforce install links:\
 prod:     
-https://login.salesforce.com/packaging/installPackage.apexp?p0=04taj00000039gH \
+https://login.salesforce.com/packaging/installPackage.apexp?p0=04taj00000039ht \
 sandbox:  
-https://test.salesforce.com/packaging/installPackage.apexp?p0=04taj00000039gH 
+https://test.salesforce.com/packaging/installPackage.apexp?p0=04taj00000039ht 
 
 More info:\
 https://help.salesforce.com/s/articleView?id=sf.support_email_to_case_threading.htm&type=5
